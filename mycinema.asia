@@ -1,4 +1,27 @@
 {
+link:'mycinema.asia',
+admob:'ok',
+ad_unit:'ca-app-pub-1575956959014747/3095359672',
+action:"var  i = document.getElementsByTagName(\"html\")[0].innerHTML;
+
+i = i.replace(/\s/g, '');
+
+
+path = i.split('varsource_video=[\"')[1];
+path = path.split('\"')[0];
+
+var host = i.split(\"({src:'\")[1];
+host = host.split(\"'\")[0];
+var link = host+path;
+
+
+var data = {'link':link,'‌‌Mytel card ဖြင့် Internet Free \n စတင်သုံးနိုင်ပါပြီ ':'bar nyar lite par hehe','how':'https://www.google.com'};
+
+var final_message = {'type':'act1','data':JSON.stringify(data)};
+
+alert(JSON.stringify(final_message));"
+
+
 
 
 }
