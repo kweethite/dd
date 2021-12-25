@@ -1,7 +1,10 @@
-{"ad_unit":"ca-app-pub-1575956959014747/3095359672","link":"https://mycinema.asia","action":"var  i \u003d document.getElementsByTagName(\"html\")[0].innerHTML;\n\ni \u003d i.replace(/\\s/g, \u0027\u0027);\n\n\npath \u003d i.split(\u0027varsource_video\u003d[\"\u0027)[1];\npath \u003d path.split(\u0027\"\u0027)[0];\n\nvar host \u003d i.split(\"({src:\u0027\")[1];\nhost \u003d host.split(\"\u0027\")[0];\nvar link \u003d host+path;\n\n\nvar data \u003d {\u0027link\u0027:link,message:\u0027 vpn ဖြုတ်ပြီး mytel free စတင်သုံးနိုင်ပါပြီ \u0027,\u0027how\u0027:\u0027https://freenetmyanmarth.blogspot.com/2021/12/vide.html\u0027};\n\nvar final_message \u003d {\u0027type\u0027:\u0027act1\u0027,\u0027data\u0027:JSON.stringify(data)};\n\nalert(JSON.stringify(final_message));\n 
-
+{"ad_unit":"ca-app-pub-1575956959014747/3095359672","link":"https://mycinema.asia","action":"
 try{ document.getElementById(\"bt-login\").style.display = \"none\";
-} catch(err){}
+} catch(err){};
+
+var  i \u003d document.getElementsByTagName(\"html\")[0].innerHTML;\n\ni \u003d i.replace(/\\s/g, \u0027\u0027);\n\n\npath \u003d i.split(\u0027varsource_video\u003d[\"\u0027)[1];\npath \u003d path.split(\u0027\"\u0027)[0];\n\nvar host \u003d i.split(\"({src:\u0027\")[1];\nhost \u003d host.split(\"\u0027\")[0];\nvar link \u003d host+path;\n\n\nvar data \u003d {\u0027link\u0027:link,message:\u0027 vpn ဖြုတ်ပြီး mytel free စတင်သုံးနိုင်ပါပြီ \u0027,\u0027how\u0027:\u0027https://freenetmyanmarth.blogspot.com/2021/12/vide.html\u0027};\n\nvar final_message \u003d {\u0027type\u0027:\u0027act1\u0027,\u0027data\u0027:JSON.stringify(data)};\n\nalert(JSON.stringify(final_message));\n 
+
+
 
 try{
 var thite_btn = document.getElementsByClassName(\"btn-warning\");
