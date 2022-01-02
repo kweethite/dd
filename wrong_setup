@@ -5,6 +5,6 @@
 ,{title:"Rotten tomato website",image:"https://media.gq.com/photos/59303fb5fd48c3741bfc222b/16:9/w_2560%2Cc_limit/rotten-tomatoes-scores.jpg",link:"https://www.rottentomatoes.com",action:""}
  ],
  
-default_video:[{preview:"photo2",title:"Love Story ",image:"https://mycinema.asia/image/avatar_7801.jpg",current_link:"https://raw.githubusercontent.com/kweethite/fake/main/love_story", poster_key:"image",title_key:"name",trailer:"watch",download:"download",about:"info"} , {title:"Marvel",image:"https://mycinema.asia/image/avatar_7951.jpg",current_link:"https://raw.githubusercontent.com/kweethite/fake/main/marvel", poster_key:"image",title_key:"name",trailer:"watch",download:"download",about:"info"} ]
+default_video:[{preview:"photo2",title:"Love Story ",image:"https://mycinema.asia/image/avatar_7801.jpg",current_link:"https://raw.githubusercontent.com/kweethite/fake/main/love_story", poster_key:"image",title_key:"name",trailer:"watch",download:"download",about:"info"} , {preview:"photo2",title:"Marvel",image:"https://mycinema.asia/image/avatar_7951.jpg",current_link:"https://raw.githubusercontent.com/kweethite/fake/main/marvel", poster_key:"image",title_key:"name",trailer:"watch",download:"download",about:"info"} ]
  
  }
