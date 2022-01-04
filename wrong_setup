@@ -5,7 +5,7 @@
     ],
 
 
- web_video:[{title:"Google",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_rwEWwkNC3erV3O-0O9H_i5VwCs9WgRshxA&usqp=CAU",link:"https://www.google.com",action:""}
+ web_video:[{title:"Search on Google and Download",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_rwEWwkNC3erV3O-0O9H_i5VwCs9WgRshxA&usqp=CAU",link:"https://www.google.com",action:""}
 ,{title:"Rotten tomato website",image:"https://media.gq.com/photos/59303fb5fd48c3741bfc222b/16:9/w_2560%2Cc_limit/rotten-tomatoes-scores.jpg",link:"https://www.rottentomatoes.com",action:""}
  ],
  
