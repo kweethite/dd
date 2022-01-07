@@ -10,4 +10,4 @@ try{
 var thite_btn = document.getElementsByClassName(\"btn-warning\");
 thite_btn[0].style.display = \"none\";
 } catch (err){
-}","admob":"ok"}
+}","admob":"limit"}
