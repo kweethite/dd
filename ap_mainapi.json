@@ -1,0 +1,14 @@
+{
+mm:"5667"
+,hint:"search (car ကြည့်ရန် ၅၆၆၇ ကို အင်္ဂးလိပ် ဖြင့်‌‌ ‌‌ေရးပါ)"
+,fb:"fb://page/thapyarsone"
+,lee_webview_adunit:"ca-app-pub-6827207582149638/9107402163"
+,default_movie_adunit:"ca-app-pub-6827207582149638/5797824495"
+,webview_interstital:"ca-app-pub-6827207582149638/5403110816"
+,ad_time:"2"
+,pre_adunit:"ca-app-pub-6827207582149638/3171661155"
+,home_video:"https://raw.githubusercontent.com/kweethite/dd/main/ap_home.json"
+,prepaid_ad_time:"3"
+,myip:"http://localhost:8099/myip.json"
+,mmv : "http://localhost:8099/mm.json"
+}
