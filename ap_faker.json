@@ -9,4 +9,8 @@
  
 default_video:[{preview:"photo2",title:"Love Story ",image:"https://raw.githubuserconent.com/kweethite/dd/main/FB_IMG_1641476247107.jpg",current_link:"https://raw.githubusercontent.com/kweethite/fake/main/love_story", poster_key:"photo1",title_key:"name",trailer:"download",download:"download",about:"about"} , {preview:"photo2",title:"Marvel",image:"https://mycinema.asia/image/avaar_7951.jpg",current_link:"https://raw.githubusercontent.com/kweethite/fake/main/marvel", poster_key:"photo1",title_key:"name",trailer:"download",download:"download",about:"about"} ]
  
+
+,setup_version:[{setup_version:"1"}]
+
+
  }
