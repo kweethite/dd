@@ -11,4 +11,5 @@ mm:"5667"
 ,prepaid_ad_time:"3"
 ,myip:"https://api.myip.com"
 ,mmv : "http://localhost:8099/mm.json"
+,help:"https://raw.githubusercontent.com/kweethite/planb/main/help.json"
 }
