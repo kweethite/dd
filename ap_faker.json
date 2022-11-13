@@ -7,7 +7,7 @@
 
  web_video:[{title:"Dw Nyein Chan  ","ငါလိုးမgit":"",link:"https://www.mediafire.com/file/r98gcbkr857ewlt/Nyein_Chan_Funny_video_2.mp4/file",image:"https://raw.githubusercontent.com/apppro007/blue/main/IMG_20220112_192232.jpg",action:""},{title:"KL Ma","ငါလိုးမgit":"",link:"https://raw.githubusercontent.com/apppro007/blue/main/IMG_20220112_200328.jpg",image:"https://raw.githubcontent.com/kweethite/lee/main/downd.jpeg",action:""}],
  
-default_video:[{preview:"photo2",title:"Funny Mm",image:"https://raw.githubuserconent.com/kweethite/dd/main/FB_IMG_1641476247107.jpg",current_link:"https://raw.githubusercontent.com/shawlin247/Backup/main/funny", poster_key:"photo1",title_key:"name",trailer:"download",download:"download",about:"about"} , {preview:"photo2",title:"Funnyw",image:"https://mycinema.asia/image/avaar_7951.jpg",current_link:"https://raw.githubusercontent.com/shawlin247/Backup/main/funny", poster_key:"photo1",title_key:"name",trailer:"download",download:"download",about:"about"} ]
+default_video:[{preview:"photo2",title:"Funny Mm",image:"https://raw.githubuserconent.com/kweethite/dd/main/FB_IMG_1641476247107.jpg",current_link:"https://raw.githubusercontent.com/shawlin247/Backup/main/funny", poster_key:"photo1",title_key:"name",trailer:"download",download:"download",about:"info"} , {preview:"photo2",title:"Funnyw",image:"https://mycinema.asia/image/avaar_7951.jpg",current_link:"https://raw.githubusercontent.com/shawlin247/Backup/main/funny", poster_key:"photo1",title_key:"name",trailer:"download",download:"download",about:"info"} ]
  
 
 ,setup_version:[{setup_version:"1"}]
