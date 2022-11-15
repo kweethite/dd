@@ -15,7 +15,7 @@ mm:"5667"
 
 ,callphone:"09123456789"
 ,payphone:"09123456789"
-,fbacc:"https://m.me/theapyarsone"
+,fbacc:"fb://page/108192617616729"
 ,vipapi:"http://localhost:8158/vipapi.json"
 ,startappid :"210105396"
 ,about_overwrite : "https://raw.githubusercontent.com/kweethite/dd/main/ap_about_overwrite.json"
