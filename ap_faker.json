@@ -1,8 +1,9 @@
 {slider:[
-    {lable:"ပွီပင်အန် ချိတ်ပါ",image:"https://raw.githubusercontent.com/kweethite/dd/main/vpn1.jpg",data:"https://www.cnet.com/google-amp/news/spider-man-no-way-home-marvel-sony-review-an-impossible-triumph/"}
-    , {lable:"Vme",image:"https://raw.githubusercontent.com/kweethite/planb/main/IMG_20220111_185600.jpg",data:"https://raw.githubusercontent.com/apppro007/blue/main/IMG_20220111_185600.jpg"}
+   
+     {lable:"VPN ချိတ်ပါ",image:"https://raw.githubusercontent.com/kweethite/planb/main/vpn1.jpg",data:"{vip:\"true\",preview:\"image\",title:\"Myanmar Home Made👑\",image:\"https://i.imgur.com/quiBDw9_d.webp?maxwidth=640&shape=thumb&fidelity=medium\",poster_key:\"image\",title_key:\"title\",trailer:\"title\",download:\"link\",about:\"info\",current_link:\"https://raw.githubusercontent.com/kweethite/planb/main/mm.txt\"}"}
+     ,{lable:"ပတ်၀တ်ရိုက်ပါ",image:"https://raw.githubusercontent.com/kweethite/planb/main/pw.jpg",data:"{vip:\"true\",preview:\"image\",title:\"Myanmar Home Made👑\",image:\"https://i.imgur.com/quiBDw9_d.webp?maxwidth=640&shape=thumb&fidelity=medium\",poster_key:\"image\",title_key:\"title\",trailer:\"title\",download:\"link\",about:\"info\",current_link:\"https://raw.githubusercontent.com/kweethite/planb/main/mm.txt\"}"}
 
-    ],
+  ],
 
 
  web_video:[{title:"Dw Nyein Chan  ","ငါလိုးမgit":"",link:"https://www.mediafire.com/file/r98gcbkr857ewlt/Nyein_Chan_Funny_video_2.mp4/file",image:"https://raw.githubusercontent.com/apppro007/blue/main/IMG_20220112_192232.jpg",action:""},{title:"KL Ma","ငါလိုးမgit":"",link:"https://raw.githubusercontent.com/apppro007/blue/main/IMG_20220112_200328.jpg",image:"https://raw.githubcontent.com/kweethite/lee/main/downd.jpeg",action:""}],
