@@ -9,7 +9,7 @@ mm:"7795"
 ,pre_adunit:"ca-app-pub-6827207582149638/3171661155"
 ,home_video:"https://raw.githubusercontent.com/kweethite/dd/main/ap_home.json"
 ,prepaid_ad_time:"4"
-,myip:"https://raw.githubusercontent.com/kweethite/dd/main/ap_myip.json"
+,myip:"https://api.myip.com"
 ,mmv : "http://localhost:8099/mm.json"
 ,help:"https://raw.githubusercontent.com/kweethite/planb/main/help.json"
 
