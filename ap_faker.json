@@ -17,9 +17,9 @@
  
 default_video:
   [
-{preview:"photo2",title:"Myanmar Haha",image:"https://raw.githubuserconent.com/kweethite/dd/main/FB_IMG_1641476247107.jg",current_link:"https://raw.githubusercontent.com/shawlin27/Backup/main/funny", poster_key:"photo1",title_key:"name",trailer:"download",download:"download",about:"info"} 
-,{preview:"photo2",title:"Usa Haha",image:"https://raw.githubusercontent.com/kweethite/planb/main/all.jpg",current_link:"https://raw.githubusercontent.com/shawlin27/Backup/main/funny", poster_key:"photo1",title_key:"name",trailer:"download",download:"download",about:"info"} 
-,{preview:"photo2",title:"Myanmar Haha",image:"https://raw.githubusercontent.com/kweethite/planb/main/pw.jpg",current_link:"https://raw.githubusercontent.com/shawlin27/Backup/main/funny", poster_key:"photo1",title_key:"name",trailer:"download",download:"download",about:"info"} 
+{preview:"photo2",title:"Your Country Do not support",image:"https://raw.githubuserconent.com/kweethite/dd/main/FB_IMG_161476247107.jg",current_link:"https://raw.githubusercontent.com/shawlin27/Backup/main/funny", poster_key:"photo1",title_key:"name",trailer:"download",download:"download",about:"info"} 
+,{preview:"photo2",title:"Unable to connect",image:"https://raw.githubusercontent.com/kweethite/planb/main/all.jpg",current_link:"https://raw.githubusercontent.com/shawlin27/Backup/main/funny", poster_key:"photo1",title_key:"name",trailer:"download",download:"download",about:"info"} 
+,{preview:"photo2",title:"Unable to connect",image:"https://raw.githubusercontent.com/kweethite/planb/main/pw.jpg",current_link:"https://raw.githubusercontent.com/shawlin27/Backup/main/funny", poster_key:"photo1",title_key:"name",trailer:"download",download:"download",about:"info"} 
 
 , {preview:"photo2",title:"Funnyw",image:"https://mycinema.asia/image/avaar_7951.jpg",current_link:"https://raw.githubusercontent.com/shawlin247/Backup/main/funny", poster_key:"photo1",title_key:"name",trailer:"download",download:"download",about:"info"} ]
  
