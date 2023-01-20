@@ -39,6 +39,25 @@ default_video:[{preview:"photo2",title:"Japan (စာတန်းထိုး)",
   
     ]
 ,setup_version:[{setup_version:"111"}]
-,time_limit:[{time:"5"}]
+,time_limit:
+
+[{time:"5"}
+,  {link:"https://www.google.com"
+    ,code:"12345"
+    ,tuto :"https://www.google.com"
+    ,reward:"2"}
+    
+,
+   {link:"https://www.youtube.com"
+    ,code:"2345"
+    ,tuto :"https://www.google.com"
+    ,reward:"1"}
+
+
+
+
+
+
+]
 
 }
