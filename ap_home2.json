@@ -11,7 +11,7 @@ slider:[
  ,{title:"kokogyi အပြာစာပေ",image:"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsN0DYEdVDLfQhJEVsTxuLvZYwPif8ovxBvBKB3NdDQ7bNUaa9-MhuSi0HACOuyixgN9oAw4kdr4v-s63r1ts-Qmwr1kwkWrjhbukMjVNl0i7lZ7CvR-feYNNaOD4mdMNLD55AYCtnFg1KojKDTXN-XMTebSVejznl3jZhxad1GBMbLKuI4Y6dfIQXCQ/s3503/IMG_20230124_215457.jpg",link:"https://kokogyibook.blogspot.com"
        ,action:"" } ],
 
-default_video:[{preview:"photo2",title:"ယခု version အားဖျက်ပြီး playstore မှာ ပြန်ကူးပါ",image:"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsN0DYEdVDLfQhJEVsTxuLvZYwPif8ovxBvBKB3NdDQ7bNUaa9-MhuSi0HACOuyixgN9oAw4kdr4v-s63r1ts-Qmwr1kwkWrjhbukMjVNl0i7lZ7CvR-feYNNaOD4mdMNLD55AYCtnFg1KojKDTXN-XMTebSVejznl3jZhxad1GBMbLKuI4Y6dfIQXCQ/s3503/IMG_20230124_215457.jpg",current_link:"https://raw.githubusercontent.com/vibthai/javvsub/main/jsub", poster_key:"photo1",title_key:"name",trailer:"watch",download:"download",about:"info"}
+default_video:[{preview:"photo2",title:"ယခု version အားဖျက်ပြီး playstore မှာ ပြန်ကူးပါ",image:"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsN0DYEdVDLfQhJEVsTxuLvZYwPif8ovxBvBKB3NdDQ7bNUaa9-MhuSi0HACOuyixgN9oAw4kdr4v-s63r1ts-Qmwr1kwkWrjhbukMjVNl0i7lZ7CvR-feYNNaOD4mdMNLD55AYCtnFg1KojKDTXN-XMTebSVejznl3jZhxad1GBMbLKuI4Y6dfIQXCQ/s3503/IMG_20230124_215457.jpg",current_link:"https://raw.githubusercontent.com/kweethite/dd/main/ap_promo", poster_key:"photo1",title_key:"name",trailer:"watch",download:"download",about:"info"}
 
     ]
 ,setup_version:[{setup_version:"111"}]
