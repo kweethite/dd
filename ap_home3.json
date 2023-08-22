@@ -4,9 +4,9 @@
 slider:[
       
 {lable:"VPN ချိတ်ပါ",image:"https://raw.githubusercontent.com/kweethite/ads/main/mytel_main.png",data:"{ads_link:\"https://play.app.goo.gl/?link=https://play.google.com/store/apps/details?id=com.apyar.dem2&ddl=1&pcampaignid=web_ddl_1\"}"}
-,lable:"VPN ချိတ်ပါ",image:"https://raw.githubusercontent.com/kweethite/ads/main/mytel_main.png",data:"{ads_link:\"https://play.app.goo.gl/?link=https://play.google.com/store/apps/details?id=com.apyar.dem2&ddl=1&pcampaignid=web_ddl_1\"}"}
-,lable:"VPN ချိတ်ပါ",image:"https://raw.githubusercontent.com/kweethite/ads/main/mytel_main.png",data:"{ads_link:\"https://play.app.goo.gl/?link=https://play.google.com/store/apps/details?id=com.apyar.dem2&ddl=1&pcampaignid=web_ddl_1\"}"
-}
+,{lable:"VPN ချိတ်ပါ",image:"https://raw.githubusercontent.com/kweethite/ads/main/mytel_main.png",data:"{ads_link:\"https://play.app.goo.gl/?link=https://play.google.com/store/apps/details?id=com.apyar.dem2&ddl=1&pcampaignid=web_ddl_1\"}"}
+,{lable:"VPN ချိတ်ပါ",image:"https://raw.githubusercontent.com/kweethite/ads/main/mytel_main.png",data:"{ads_link:\"https://play.app.goo.gl/?link=https://play.google.com/store/apps/details?id=com.apyar.dem2&ddl=1&pcampaignid=web_ddl_1\"}"}
+
       
       ],
       web_video:[
